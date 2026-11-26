@@ -1,18 +1,18 @@
-<p align="center"><img src="icono.png" width="120" alt="YT Music Bandeja"></p>
+<p align="center"><img src="icono.png" width="120" alt="JAIJA Player"></p>
 
-<h1 align="center">YT Music Bandeja</h1>
+<h1 align="center">JAIJA Player</h1>
 <p align="center"><b>by JAIJA</b></p>
 
-YouTube Music y YouTube oficiales, livianos, en la bandeja de Windows (al lado del reloj), con mini reproductor de vidrio.
+Reproductor liviano para **YouTube Music y YouTube** en la bandeja de Windows (al lado del reloj), con mini reproductor de vidrio. Carga los sitios oficiales, así que con YouTube Premium no hay anuncios.
 
 ## Descargar
 
-**[⬇️ Descargar la última versión (zip)](https://github.com/TorlettiJoaquin/yt-music-bandeja/raw/main/descargas/YT-Music-Bandeja-by-JAIJA.zip)**
+**[⬇️ Descargar la última versión (zip)](https://github.com/TorlettiJoaquin/jaija-player/raw/main/descargas/JAIJA-Player.zip)**
 
 1. Descomprimí la carpeta donde quieras dejarla (por ejemplo en Documentos).
-2. Doble click en **YT Music Bandeja.exe**.
+2. Doble click en **JAIJA Player.exe**.
 3. Si Windows muestra "Windows protegió tu PC" (la app no está firmada): **Más información → Ejecutar de todas formas**.
-4. Iniciá sesión con tu cuenta de Google. Con YouTube Premium no hay anuncios.
+4. Iniciá sesión con tu cuenta de Google.
 
 Requisitos: Windows 10 u 11 (64 bits).
 
@@ -30,4 +30,4 @@ La app se actualiza sola: busca versiones nuevas cada 6 horas y se instala cuand
 
 ---
 
-Carga los sitios oficiales de YouTube y YouTube Music, sin bloquear nada. No está afiliada a YouTube ni a Google.
+JAIJA Player no está afiliado a YouTube ni a Google. YouTube y YouTube Music son marcas de Google LLC.
