@@ -9,7 +9,7 @@ Reproductor liviano para **YouTube Music y YouTube** en la bandeja de Windows (a
 
 **[⬇️ Descargar la última versión (zip)](https://github.com/TorlettiJoaquin/jaija-player/raw/main/descargas/JAIJA-Player.zip)**
 
-1. Descomprimí la carpeta donde quieras dejarla (por ejemplo en Documentos).
+1. Descomprimí la carpeta en Documentos, el Escritorio o Descargas (no en "Archivos de programa": ahí no se puede actualizar sola).
 2. Doble click en **JAIJA Player.exe**.
 3. Si Windows muestra "Windows protegió tu PC" (la app no está firmada): **Más información → Ejecutar de todas formas**.
 4. Iniciá sesión con tu cuenta de Google.
@@ -18,6 +18,7 @@ Requisitos: Windows 10 u 11 (64 bits).
 
 ## Cómo se usa
 
+- Después de abrirla una vez, aparece en el **menú Inicio**: buscala con la lupa escribiendo "JAIJA Player".
 - **Click izquierdo** en el ícono: si suena algo, el mini reproductor; si no, la ventana.
 - **Click derecho**: menú, incluida **Configuración…**
 - **Ctrl + Alt + M**: muestra u oculta el mini desde cualquier lado.
