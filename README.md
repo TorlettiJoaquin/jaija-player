@@ -9,7 +9,7 @@ YouTube Music y YouTube oficiales, livianos, en la bandeja de Windows (al lado d
 
 **[⬇️ Descargar la última versión (zip)](https://github.com/TorlettiJoaquin/yt-music-bandeja/raw/main/descargas/YT-Music-Bandeja-by-JAIJA.zip)**
 
-1. Descomprimí la carpeta donde quieras dejarla (por ejemplo en Documentos). Los dos archivos tienen que quedar juntos.
+1. Descomprimí la carpeta donde quieras dejarla (por ejemplo en Documentos).
 2. Doble click en **YT Music Bandeja.exe**.
 3. Si Windows muestra "Windows protegió tu PC" (la app no está firmada): **Más información → Ejecutar de todas formas**.
 4. Iniciá sesión con tu cuenta de Google. Con YouTube Premium no hay anuncios.
