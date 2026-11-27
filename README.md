@@ -25,6 +25,7 @@ Requisitos: Windows 10 u 11 (64 bits).
 - En el mini, **click en una parte vacía** muestra lo que viene después; mantené apretado para moverlo.
 - **YouTube**: solo el video al reproducir, y video flotante siempre arriba.
 - **Spotify** y **Crunchyroll**: los reproductores web oficiales, con tu cuenta, en la misma ventana (se elige desde el menú del ícono).
+- **Importar sesiones** de Chrome o Brave (Spotify y Crunchyroll) desde Configuración, con un conector propio que solo ve esos dos sitios y solo pasa lo que elegís. Nada sale de tu PC.
 
 ## Actualizaciones
 
