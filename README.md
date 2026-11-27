@@ -3,7 +3,7 @@
 <h1 align="center">JAIJA Player</h1>
 <p align="center"><b>by JAIJA</b></p>
 
-Reproductor liviano para **YouTube Music y YouTube** en la bandeja de Windows (al lado del reloj), con mini reproductor de vidrio. Carga los sitios oficiales, así que con YouTube Premium no hay anuncios.
+Reproductor liviano para **YouTube Music, YouTube, Spotify y Crunchyroll** en la bandeja de Windows (al lado del reloj), con mini reproductor de vidrio. Carga los sitios oficiales, así que con YouTube Premium no hay anuncios.
 
 ## Descargar
 
@@ -24,6 +24,7 @@ Requisitos: Windows 10 u 11 (64 bits).
 - **Ctrl + Alt + M**: muestra u oculta el mini desde cualquier lado.
 - En el mini, **click en una parte vacía** muestra lo que viene después; mantené apretado para moverlo.
 - **YouTube**: solo el video al reproducir, y video flotante siempre arriba.
+- **Spotify** y **Crunchyroll**: los reproductores web oficiales, con tu cuenta, en la misma ventana (se elige desde el menú del ícono).
 
 ## Actualizaciones
 
@@ -31,4 +32,4 @@ La app se actualiza sola: busca versiones nuevas cada 6 horas y se instala cuand
 
 ---
 
-JAIJA Player no está afiliado a YouTube ni a Google. YouTube y YouTube Music son marcas de Google LLC.
+JAIJA Player no está afiliado a YouTube, Google, Spotify ni Crunchyroll. Las marcas pertenecen a sus dueños.
